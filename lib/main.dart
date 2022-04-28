@@ -11,9 +11,7 @@ void main() {
         ),
         backgroundColor: Colors.black26,
         body: Center(
-          child: Image(
-            image: AssetImage('images/ab1.jpg'),
-      ),
+          child: Text('Hello')
         ),
       ),
     ),
